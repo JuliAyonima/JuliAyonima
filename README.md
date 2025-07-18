@@ -1,6 +1,6 @@
 ## Hello everyone! i'm Julian 👋
 
-![nijika](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNraXNmbXhic2ZvZXFrcHF5ZzV5cHMzdDV6cDRrNzN5eTYzMGZocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU8sqrqeF4dAjo8Kqi/giphy.gif)
+![nijika](gif/Bocchi%20GIF.gif)
 <!--
 **JuliAyonima/JuliAyonima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
