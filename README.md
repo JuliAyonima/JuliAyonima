@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello everyone! i'm Julian 👋
 
+![nijika](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNraXNmbXhic2ZvZXFrcHF5ZzV5cHMzdDV6cDRrNzN5eTYzMGZocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU8sqrqeF4dAjo8Kqi/giphy.gif)
 <!--
 **JuliAyonima/JuliAyonima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning pyhton
+- 🤔 first time touching this 
+- 😁
